@@ -1,5 +1,8 @@
 # JAVA-LIB NUMBER GAME
 
+## Preview
+![preview](https://raw.githubusercontent.com/boyu8266/java-lib-number-game/master/images/preview.gif "preview")
+
 ## Example
 ``` java
 public class GameTest {
